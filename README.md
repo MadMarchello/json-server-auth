@@ -9,7 +9,6 @@
     }
 #### Запуск сервера
     json-server-auth db.json
----ps1
 #### Команды curl
 ###### Регистрация
 ```PowerShell
